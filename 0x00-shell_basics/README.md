@@ -5,3 +5,5 @@
 2-bring_me_home changed working directory to home
 
 3-listfiles displays current directory contents in a long format
+
+4-listmorefiles displays all files in long format {including hidden files}
