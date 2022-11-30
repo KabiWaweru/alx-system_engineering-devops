@@ -2,4 +2,6 @@
 
 1-listit prints the contents of the current directory
 
-2-bring_me_home changed working directory to home.
+2-bring_me_home changed working directory to home
+
+3-listfiles displays current directory contents in a long format
