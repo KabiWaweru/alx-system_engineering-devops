@@ -17,3 +17,5 @@
 8-firstdelete deletes file in tmp directory
 
 9-firstdirdeletion deletes directory in /tmp
+
+10-back takes directory back
