@@ -9,3 +9,5 @@
 4-listmorefiles displays all files in long format {including hidden files}
 
 5-listfilesdigitalonly displays contents of direcory in long format but user and group IDs are used as opposed to the names 
+
+6=firstdirectory creates a directory in /tmp
