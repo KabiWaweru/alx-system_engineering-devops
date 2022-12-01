@@ -15,3 +15,5 @@
 7-movefile moves directory in /tmp
 
 8-firstdelete deletes file in tmp directory
+
+9-firstdirdeletion deletes directory in /tmp
