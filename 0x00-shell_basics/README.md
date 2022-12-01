@@ -13,3 +13,5 @@
 6-firstdirectory creates a directory in /tmp
 
 7-movefile moves directory in /tmp
+
+8-firstdelete deletes file in tmp directory
