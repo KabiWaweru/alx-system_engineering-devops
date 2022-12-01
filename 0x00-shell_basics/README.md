@@ -10,4 +10,6 @@
 
 5-listfilesdigitalonly displays contents of direcory in long format but user and group IDs are used as opposed to the names 
 
-6=firstdirectory creates a directory in /tmp
+6-firstdirectory creates a directory in /tmp
+
+7-movefile moves directory in /tmp
